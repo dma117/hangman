@@ -1,0 +1,1 @@
+console.log('You can press Enter when a modal window is opened to start a new game.');
